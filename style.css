@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    padding: 40px;
+    text-align: center;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  input, textarea {
+    padding: 10px;
+    margin: 10px;
+    width: 80%;
+    max-width: 400px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
